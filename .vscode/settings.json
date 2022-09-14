@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\jogl232\\jar\\gluegen.jar",
+        "c:\\jogl232\\jar\\jogl-all.jar"
+    ],
+    "java.project.sourcePaths": [
+        "."
+    ]
+}

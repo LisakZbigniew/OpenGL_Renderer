@@ -1,0 +1,11 @@
+Texture sources:
+
+phone_screen.jpg  -  own photo
+
+door texture (doors_wood_doors_0217_01_s.jpg) - texturelib.com http://texturelib.com/license/
+
+floor and wall textures (WoodFloor024_1K_Color.jpg, Plaster001_1K_Color.jpg) - https://ambientcg.com/ under the Creative Commons CC0 1.0 Universal License
+
+Metallic tilles used on large egg (Tiles_048_basecolor.jpg, Tiles_048_metallic.jpg) - https://3dtextures.me under CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+
+environment textures (files in environment directory) : http://www.humus.name for details see readme.txt in directory
